@@ -1,1 +1,20 @@
-What is the title of the most played game?:
+- Title of the most played game:
+Minecraft
+
+- Copies have been sold total:
+187.16
+
+- Average selling:
+7.798333333333333
+
+- Characters in longest title:
+52
+
+- Average of release dates:
+2003
+
+- Properties of selected game(Minecraft)
+['Minecraft', '23', '2009', 'Survival game', 'Microsoft']
+
+- Games grouped by genre:
+{'RPG': 5, 'Action-adventure': 1, 'Real-time strategy': 7, 'Survival game': 1, 'Sandbox': 1, 'Simulation': 3, 'First-person shooter': 6}

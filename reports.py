@@ -68,7 +68,7 @@ def sort_abc(file_name):
     return titles_sorted
 
 
-def get_genres(file_name): #SORT!
+def get_genres(file_name):
     file_ = open(file_name, "r")
     genres = []
     genres_sorted = []
