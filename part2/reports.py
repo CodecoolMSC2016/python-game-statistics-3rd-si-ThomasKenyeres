@@ -80,35 +80,3 @@ def count_grouped_by_genre(file_name):
             genres[record[3]] = 1
     exp.report_return(genres)
     return genres
-
-
-def get_date_ordered(file_name):
-    file_ = open(file_name, "r")
-    titles = []
-    titles_sorted = []
-    titles_ordered = []
-    records = []
-    for line in file_:
-        record = line.strip().split("\t")
-        titles.append(record[0])
-    for j in range(len(titles)):
-        for i in range(len(titles)):
-            if titles[i] == min(titles):
-                titles_sorted.append(titles[i])
-                del titles[i]
-                break
-    #for title in titles_sorted:
-    #    if file_[:].strip().split("\t")[]:
-    #        pass
-
-
-
-
-print(get_most_played("game_stat.txt"))
-print(sum_sold("game_stat.txt"))
-print(get_selling_avg("game_stat.txt"))
-print(count_longest_title("game_stat.txt"))
-print(get_date_avg("game_stat.txt"))
-print(get_game("game_stat.txt", "Minecraft"))
-print(count_grouped_by_genre("game_stat.txt"))
-#print(get_date_ordered("game_stat.txt"))

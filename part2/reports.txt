@@ -18,3 +18,87 @@ Minecraft
 
 - Games grouped by genre:
 {'RPG': 5, 'Action-adventure': 1, 'Real-time strategy': 7, 'Survival game': 1, 'Sandbox': 1, 'Simulation': 3, 'First-person shooter': 6}
+- Title of the most played game:
+Minecraft
+
+- Copies have been sold total:
+187.16
+
+- Average selling:
+7.79833333333
+
+- Characters in longest title:
+52
+
+- Average of release dates:
+2003.0
+
+- Properties of selected game(Minecraft)
+['Minecraft', '23', '2009', 'Survival game', 'Microsoft']
+
+- Games grouped by genre:
+{'Action-adventure': 1, 'Survival game': 1, 'Simulation': 3, 'Sandbox': 1, 'First-person shooter': 6, 'RPG': 5, 'Real-time strategy': 7}
+
+- Title of the most played game:
+Minecraft
+
+- Copies have been sold total:
+187.16
+
+- Average selling:
+7.79833333333
+
+- Characters in longest title:
+52
+
+- Average of release dates:
+2003.0
+
+- Properties of selected game(Minecraft)
+['Minecraft', '23', '2009', 'Survival game', 'Microsoft']
+
+- Games grouped by genre:
+{'Action-adventure': 1, 'Survival game': 1, 'Simulation': 3, 'Sandbox': 1, 'First-person shooter': 6, 'RPG': 5, 'Real-time strategy': 7}
+
+- Title of the most played game:
+Minecraft
+
+- Copies have been sold total:
+187.16
+
+- Average selling:
+7.79833333333
+
+- Characters in longest title:
+52
+
+- Average of release dates:
+2003.0
+
+- Properties of selected game(Minecraft)
+['Minecraft', '23', '2009', 'Survival game', 'Microsoft']
+
+- Games grouped by genre:
+{'Action-adventure': 1, 'Survival game': 1, 'Simulation': 3, 'Sandbox': 1, 'First-person shooter': 6, 'RPG': 5, 'Real-time strategy': 7}
+
+- Title of the most played game:
+Minecraft
+
+- Copies have been sold total:
+187.16
+
+- Average selling:
+7.798333333333333
+
+- Characters in longest title:
+52
+
+- Average of release dates:
+2003
+
+- Properties of selected game(Minecraft)
+['Minecraft', '23', '2009', 'Survival game', 'Microsoft']
+
+- Games grouped by genre:
+{'Action-adventure': 1, 'Sandbox': 1, 'Real-time strategy': 7, 'Simulation': 3, 'First-person shooter': 6, 'RPG': 5, 'Survival game': 1}
+
